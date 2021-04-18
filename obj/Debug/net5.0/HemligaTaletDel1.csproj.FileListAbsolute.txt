@@ -1,0 +1,15 @@
+/Users/luxlinna/Hermods/HemligaTaletDel1/bin/Debug/net5.0/HemligaTaletDel1.deps.json
+/Users/luxlinna/Hermods/HemligaTaletDel1/bin/Debug/net5.0/HemligaTaletDel1.runtimeconfig.json
+/Users/luxlinna/Hermods/HemligaTaletDel1/bin/Debug/net5.0/HemligaTaletDel1.runtimeconfig.dev.json
+/Users/luxlinna/Hermods/HemligaTaletDel1/bin/Debug/net5.0/HemligaTaletDel1.dll
+/Users/luxlinna/Hermods/HemligaTaletDel1/bin/Debug/net5.0/ref/HemligaTaletDel1.dll
+/Users/luxlinna/Hermods/HemligaTaletDel1/bin/Debug/net5.0/HemligaTaletDel1.pdb
+/Users/luxlinna/Hermods/HemligaTaletDel1/obj/Debug/net5.0/HemligaTaletDel1.csprojAssemblyReference.cache
+/Users/luxlinna/Hermods/HemligaTaletDel1/obj/Debug/net5.0/HemligaTaletDel1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luxlinna/Hermods/HemligaTaletDel1/obj/Debug/net5.0/HemligaTaletDel1.AssemblyInfoInputs.cache
+/Users/luxlinna/Hermods/HemligaTaletDel1/obj/Debug/net5.0/HemligaTaletDel1.AssemblyInfo.cs
+/Users/luxlinna/Hermods/HemligaTaletDel1/obj/Debug/net5.0/HemligaTaletDel1.csproj.CoreCompileInputs.cache
+/Users/luxlinna/Hermods/HemligaTaletDel1/obj/Debug/net5.0/HemligaTaletDel1.dll
+/Users/luxlinna/Hermods/HemligaTaletDel1/obj/Debug/net5.0/ref/HemligaTaletDel1.dll
+/Users/luxlinna/Hermods/HemligaTaletDel1/obj/Debug/net5.0/HemligaTaletDel1.pdb
+/Users/luxlinna/Hermods/HemligaTaletDel1/obj/Debug/net5.0/HemligaTaletDel1.genruntimeconfig.cache
