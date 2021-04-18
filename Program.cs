@@ -9,7 +9,7 @@ namespace HemligaTaletDel1
             Random randomerare = new Random(); 
             Console.ForegroundColor = ConsoleColor.DarkMagenta;
             
-            for (int i = 0; i < 101; i++)
+            for (int i = 0; i < 10; i++)
             {
                 int slump_tal = randomerare.Next(1, 101);
                 Console.WriteLine(slump_tal);   
